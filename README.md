@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis Vasquez
 - 👀 I’m interested in Apernder a programar en varios lenguajes de programacion.
-- 🌱 I’m currently learning Css y Js
+- 🌱 I’m currently learning Css, Html y Js
 - 💞️ I’m looking to collaborate on .../.
 - 📫 How to reach me vasquezdenis684@gmail.com
 
